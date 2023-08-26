@@ -1,0 +1,14 @@
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\bin\Debug\net6.0\Minesweeper.exe
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\bin\Debug\net6.0\Minesweeper.deps.json
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\bin\Debug\net6.0\Minesweeper.runtimeconfig.json
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\bin\Debug\net6.0\Minesweeper.dll
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\bin\Debug\net6.0\Minesweeper.pdb
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.AssemblyInfoInputs.cache
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.AssemblyInfo.cs
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.csproj.CoreCompileInputs.cache
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.dll
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\refint\Minesweeper.dll
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.pdb
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\Minesweeper.genruntimeconfig.cache
+D:\VS\Projects\Minesweeper\Minesweeper\Minesweeper\obj\Debug\net6.0\ref\Minesweeper.dll
